@@ -1,1 +1,1 @@
-# insta-clone
+# Social Media Platform
